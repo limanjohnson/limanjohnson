@@ -1,16 +1,22 @@
-## Hi there 👋
+# Liam Nell
 
-<!--
-**limanjohnson/limanjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello!
 
-Here are some ideas to get you started:
+I'm Liam, a student at Brigham Young University-Idaho interested in React and Wordpress web development!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently designing a recipe sharing app as part of my senior project
+- My goals are to develop apps that make life easier!
+- Ask me about my idea for a workout tracker app!
+
+## Technologies and Tools
+
+- Proficient in: Next.js and Wordpress PHP
+- 2 years of experience working with Git, GitHub Actions, Custom Wordpress PHP Plugins
+
+## Let's Connect!
+
+- Here is my [LinkedIn] (https://www.linkedin.com/in/liam-nell-82a95134a/) profile
+
+  
