@@ -17,6 +17,6 @@ I'm Liam, a student at Brigham Young University-Idaho interested in React and Wo
 
 ## Let's Connect!
 
-- Here is my [LinkedIn] (https://www.linkedin.com/in/liam-nell-82a95134a/) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/liam-nell-82a95134a/) profile
 
   
