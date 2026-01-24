@@ -2,7 +2,7 @@
 
 Hello!
 
-I'm Liam, a student at Brigham Young University-Idaho interested in React and Wordpress web development!
+WordPress Developer with 3 years of experience building custom plugins and business workflow automation. Currently finishing a B.S. in Software Development at BYU-Idaho.
 
 ## About Me
 
@@ -13,7 +13,7 @@ I'm Liam, a student at Brigham Young University-Idaho interested in React and Wo
 ## Technologies and Tools
 
 - Proficient in: Next.js and Wordpress PHP
-- 2 years of experience working with Git, GitHub Actions, Custom Wordpress PHP Plugins
+- 3 years of experience working with Git, GitHub Actions, Custom Wordpress PHP Plugins
 
 ## Let's Connect!
 
@@ -35,4 +35,4 @@ I'm Liam, a student at Brigham Young University-Idaho interested in React and Wo
 
 - [Goal Setting App](https://github.com/limanjohnson/GoalSettingApp)
 
-![My Skills](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?=wordpress,php,nextjs,react,git,tailwind,flutter,dotnet)
