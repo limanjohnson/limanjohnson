@@ -6,9 +6,8 @@ WordPress Developer with 3 years of experience building custom plugins and busin
 
 ## About Me
 
-- I'm currently designing a recipe sharing app as part of my senior project
-- My goals are to develop apps that make life easier!
-- Ask me about my idea for a workout tracker app!
+- I'm finishing up my degree in Software Development at BYU-Idaho and have a senior project I am working on called Recipe Hub. It is a social media platform based around sharing recipes with other users!
+- I am very familiar with WordPress and its capabilities. I have experience of how it can integrate with other third party software and am continuing to grow my knowledge!
 
 ## Technologies and Tools
 
