@@ -19,4 +19,8 @@ I'm Liam, a student at Brigham Young University-Idaho interested in React and Wo
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/liam-nell-82a95134a/) profile
 
-  
+## Projects:
+
+### DollaWiz (Flutter Personal Finance App)
+
+- [DollaWiz](https://github.com/limanjohnson/dollawiz)
