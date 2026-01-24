@@ -27,5 +27,10 @@ I'm Liam, a student at Brigham Young University-Idaho interested in React and Wo
 - [News App](https://github.com/limanjohnson/NewsFlutterApp)
 
 ### TypeScript (NextJS)
+
 - [Handcraft Haven](https://github.com/limanjohnson/handcraft-haven)
 - [Recipe Hub](https://github.com/limanjohnson/RecipeHub)
+
+### .NET Blazor
+
+- [Goal Setting App](https://github.com/limanjohnson/GoalSettingApp)
