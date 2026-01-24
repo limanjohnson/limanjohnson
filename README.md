@@ -12,8 +12,9 @@ WordPress Developer with 3 years of experience building custom plugins and busin
 
 ## Technologies and Tools
 
-- Proficient in: Next.js and Wordpress PHP
-- 3 years of experience working with Git, GitHub Actions, Custom Wordpress PHP Plugins
+![My Skills](https://skillicons.dev/icons?i=wordpress,php,nextjs,react,git,tailwind,flutter,dotnet)
+
+- WordPress/PHP, Next.js, React, Git, Tailwind
 
 ## Let's Connect!
 
@@ -36,4 +37,4 @@ WordPress Developer with 3 years of experience building custom plugins and busin
 - [Goal Setting App](https://github.com/limanjohnson/GoalSettingApp)
 
 
-![My Skills](https://skillicons.dev/icons?i=wordpress,php,nextjs,react,git,tailwind,flutter,dotnet)
+
