@@ -34,3 +34,5 @@ I'm Liam, a student at Brigham Young University-Idaho interested in React and Wo
 ### .NET Blazor
 
 - [Goal Setting App](https://github.com/limanjohnson/GoalSettingApp)
+
+![My Skills](https://skillicons.dev)
