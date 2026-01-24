@@ -21,6 +21,11 @@ I'm Liam, a student at Brigham Young University-Idaho interested in React and Wo
 
 ## Projects:
 
-### DollaWiz (Flutter Personal Finance App)
+### Flutter Projects
 
 - [DollaWiz](https://github.com/limanjohnson/dollawiz)
+- [News App](https://github.com/limanjohnson/NewsFlutterApp)
+
+### TypeScript (NextJS)
+- [Handcraft Haven](https://github.com/limanjohnson/handcraft-haven)
+- [Recipe Hub](https://github.com/limanjohnson/RecipeHub)
