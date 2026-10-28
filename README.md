@@ -23,7 +23,8 @@ WordPress Developer with 3 years of experience building custom plugins and busin
 
 ### Flutter Projects
 
-- [DollaWiz](https://github.com/limanjohnson/dollawiz)
+- [DollaWiz](https://github.com/limanjohnson/dollawiz) This project is on pause at the moment
+- [20 Minute Workouts] This is a project that is still in design stages. It's purpose will easily track sets and reps of 20 minute HIIT workouts
 - [News App](https://github.com/limanjohnson/NewsFlutterApp)
 
 ### TypeScript (NextJS)
