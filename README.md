@@ -6,8 +6,7 @@ WordPress Developer with 3 years of experience building custom plugins and busin
 
 ## About Me
 
-- I'm finishing up my degree in Software Development at BYU-Idaho and have a senior project I am working on called Recipe Hub. It is a social media platform based around sharing recipes with other users!
-- I am very familiar with WordPress and its capabilities. I have experience of how it can integrate with other third party software and am continuing to grow my knowledge!
+- I graduated with a software degree June 2026, I have been working with software for the past 3 years. Ive worked mostly in the Wordpress and PHP realm in my work. I've had ineterest in learning React and have built several project sites during my studying using Next.js and with .NET Blazor.
 
 ## Technologies and Tools
 
